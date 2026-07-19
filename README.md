@@ -15,7 +15,7 @@ An iOS app built with SwiftUI that centralizes a student's academic life — CGP
 - **Version Control:** Git/GitHub
 
 ## Status
-🚧 Actively in development — login/sign-in and persistent data storage are in progress.
+Actively in development — login/sign-in and persistent data storage are in progress.
 
 ## Background
 Built as the technical foundation for an application to Graphic Era University's Apple/Infosys-backed iOS Development program.
